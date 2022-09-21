@@ -1,0 +1,150 @@
+.section_fourth {
+  height: 1100px;
+  background-color: #174254;
+}
+
+.review_container {
+  color: white;
+  width: 90%;
+  margin: 0rem auto;
+  padding: 2rem;
+  text-shadow: rgba(75, 73, 73, 0.779) 1px 1px 8px;
+}
+
+.review_title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.review_desc {
+  font-size: 1.2rem;
+  line-height: 30px;
+  text-align: center;
+  padding: 3rem;
+  font-weight: 400;
+}
+
+.review_container_mobile .review_desc {
+  padding: 1rem 1rem 3rem 1rem;
+}
+
+#getanestimatebtn {
+  background-color: rgb(236, 202, 34);
+  text-align: center;
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 3rem;
+  border: none;
+  color: white;
+  text-shadow: rgba(82, 80, 80, 0.636) 0px 0px 6px;
+  height: 50px;
+  padding: 0.8rem 1.5rem;
+  font-weight: bold;
+  border-radius: 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.reviewbox {
+  margin: 2rem auto;
+
+  display: flex;
+  justify-content: space-around;
+}
+.review_arrow_left,
+.review_arrow_right {
+  align-self: center;
+  font-size: 2rem;
+  cursor: pointer;
+  transition: 0.5s;
+  border: none;
+  background-color: #174254;
+}
+
+.review_arrow_left i,
+.review_arrow_right i {
+  color: white;
+}
+
+#review_disabled_btn {
+  color: gray;
+}
+
+.review_arrow_left:hover,
+.review_arrow_right:hover {
+  transform: scale(1.1);
+}
+.reviews {
+  width: 85%;
+
+  margin-right: 1rem;
+  overflow: hidden;
+}
+#ul {
+  transition: 1.4s;
+  width: 100%;
+  font-size: 1.1rem;
+  text-align: center;
+  display: flex;
+
+  justify-content: space-between;
+}
+
+#ul li {
+  width: 850px;
+}
+
+.rate {
+  font-size: 2rem;
+  color: yellow;
+}
+.rate i {
+  padding: 0.2rem;
+}
+
+.reviewcomment {
+  padding: 1.2rem;
+  line-height: 30px;
+  height: 170px;
+  overflow: hidden;
+  width: 385px;
+  display: block;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  white-space: normal;
+  font-size: 0.9rem;
+}
+
+.reviewer {
+  margin: 2rem auto;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+#leaveareview {
+  background-color: rgb(236, 202, 34);
+  width: 100%;
+  display: block;
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 2rem;
+  border: none;
+  color: white;
+  text-shadow: rgba(82, 80, 80, 0.636) 0px 0px 6px;
+  height: 50px;
+  padding: 0.8rem 1.5rem;
+  font-weight: bold;
+  border-radius: 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.review_container_mobile {
+  color: white;
+}
+
+.review_container_mobile .review_title {
+  font-size: 2rem;
+}

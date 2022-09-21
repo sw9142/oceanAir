@@ -1,0 +1,233 @@
+.gap {
+  padding: 4.4rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.container_section_first {
+  position: relative;
+}
+.aci_pc {
+  margin-top: 3rem;
+}
+
+.aci_pc .section_first_left {
+  align-self: center;
+  background-color: #d3d3d345;
+  width: 70%;
+  border-radius: 20px;
+  margin-left: 8rem;
+}
+.aci_pc p {
+  font-size: 1.4rem !important;
+}
+
+.aci_pc .section_first_left .container {
+  width: 70%;
+}
+.section_first_left .container {
+  width: 570px;
+  padding: 8rem 3rem 3rem 3rem;
+  border-radius: 10px;
+}
+
+.section_first_left h2 {
+  font-size: 27px;
+  font-family: Open Sans, sans-serif;
+  color: #174254;
+  margin: 0;
+}
+
+.aci_pc .section_first_left h2 {
+  font-size: 2rem;
+}
+.section_first_left p {
+  text-align: left;
+}
+.section_first_left h3 {
+  font-size: 20px;
+  font-weight: 400;
+}
+.section_first_pic {
+  position: absolute;
+  background-image: url("../../Images/hero1.jpg");
+  width: 500px;
+  height: 500px;
+  background-size: cover;
+  top: 2rem;
+  right: 4rem;
+  border-radius: 10px;
+}
+
+.aci_pc .section_first_pic {
+  top: 2rem;
+  right: 10rem;
+  height: 450px;
+}
+.twh_pc .section_first_pic {
+  top: 2rem;
+  right: 15rem;
+}
+/*------------section_second_aci-------------------------*/
+
+.section_second_aci .container {
+  margin: 5rem auto;
+  width: 90%;
+}
+
+.section_second_aci .container {
+  margin: 5rem auto;
+  width: 90%;
+}
+
+.section_second_aci .container h2 {
+  font-size: 2.5em;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+  color: #174254;
+}
+.section_second_aci .container h3 {
+  font-size: 2em;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+}
+.section_second_aci .container p {
+  font-size: 18px;
+  line-height: 1.7em;
+}
+
+.section_second_aci .container .btn-req-estimate {
+  display: inline-block;
+  padding: 20px 25px;
+  background: #ffde01;
+  border-radius: 4px;
+  color: #fff !important;
+  line-height: 1em;
+  text-align: center;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: Open Sans, sans-serif;
+  overflow: hidden;
+  position: relative;
+  border: none;
+  height: auto;
+  border-radius: 30px;
+  text-shadow: 0 0 9px rgb(0 0 0 / 85%);
+}
+/*------------section_third_aci-------------------------*/
+
+.section_third_aci .container {
+  padding: 4rem 2rem;
+  background-color: #f7f7f7 !important;
+  width: 90%;
+  margin: 1rem auto;
+}
+
+.section_third_aci .container h2 {
+  font-size: 45px;
+  font-family: Open Sans, sans-serif;
+  color: #174254;
+}
+.section_third_aci .container h3 {
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+}
+.section_third_aci .container p img {
+  float: right;
+  max-width: 30%;
+  margin-bottom: 1.5rem;
+  margin-left: 1.5rem;
+  border-radius: 6px;
+}
+.section_third_aci .container .h3 {
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  font-family: Open Sans, sans-serif !important;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  color: #174254;
+}
+
+.section_third_aci .container p {
+  font-size: 18px;
+  line-height: 1.7em;
+}
+.section_third_aci .container .btn-req-estimate {
+  display: inline-block;
+  padding: 20px 25px;
+  background: #ffde01;
+  border-radius: 4px;
+  color: #fff !important;
+  line-height: 1em;
+  text-align: center;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: Open Sans, sans-serif;
+  overflow: hidden;
+  position: relative;
+  border: none;
+  height: auto;
+  border-radius: 30px;
+  text-shadow: 0 0 9px rgb(0 0 0 / 85%);
+}
+
+.section_fourth_aci {
+  height: 1100px;
+  background-color: #174254;
+}
+
+/* aci_Moacile*/
+
+.aci_mobile {
+  margin-top: 2rem;
+}
+.aci_mobile h2 {
+  font-size: 2rem;
+}
+
+.aci_mobile h3 {
+  font-size: 1.5rem;
+}
+
+.aci_mobile p {
+  font-size: 18px;
+  line-height: 1.7em;
+}
+.aci_mobile .container_section_first {
+  display: flex;
+  flex-direction: column;
+}
+
+.aci_mobile .section_first_left .container {
+  width: 100%;
+  padding: 1rem;
+}
+
+.aci_mobile .section_first_aci .section_first_pic {
+  width: 90%;
+  height: 50%;
+  background-size: cover;
+  position: unset;
+  width: 90%;
+  height: 200px;
+  align-self: center;
+  margin: 1rem;
+}
+
+.aci_mobile .section_third_hfi .container p img {
+  max-width: 50%;
+  height: 150px;
+}
+
+.aci_mobile .section_fourth_aci {
+  height: auto;
+  padding-bottom: 1rem;
+}

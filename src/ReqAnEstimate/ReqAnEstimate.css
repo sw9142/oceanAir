@@ -1,0 +1,162 @@
+/*------------------section page-header -----------------------*/
+
+.page-header {
+  position: relative;
+  color: #174254;
+}
+.page-header .container {
+  background-image: url("../Images/hero1.jpg");
+  background-size: cover;
+  height: 500px;
+
+  margin: 0 auto;
+}
+.text-center {
+  background: #ffde01;
+  color: #fff;
+  font-size: 2.5rem;
+  padding: 1.5rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 75%;
+  margin: 0 auto;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0;
+  z-index: 50;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 0 0 9px rgb(0 0 0 / 85%);
+}
+
+.page-content {
+  width: 75%;
+  margin: 2rem auto;
+}
+
+.page-content .h1 {
+  font-size: 2.7rem;
+  font-weight: bolder;
+  margin: 1.2rem auto;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.row .col {
+  padding-right: 1rem;
+  width: 60%;
+}
+.row .h3 {
+  font-size: 1.7rem;
+  font-weight: bold;
+  margin: 0.8rem auto;
+}
+.row i {
+  color: #1459ba;
+  font-size: 1.5rem;
+  padding-right: 0.5rem;
+}
+.details {
+  color: black;
+  font-size: 1.1rem;
+}
+
+.schedule-form form {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.name {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.fname,
+.lname {
+  flex: 1;
+}
+
+.schedule-form form label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: black;
+}
+
+.schedule-form form input,
+.schedule-form form textarea {
+  padding: 10px 11px;
+  margin: 0.3rem;
+  border-radius: 5px;
+  background: #dadada;
+  border: none;
+}
+
+.city-state,
+.zip-country {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.city,
+.state,
+.zip,
+.country {
+  flex: 1;
+}
+.schedule-form form span {
+  color: #ffde01;
+}
+#submit {
+  background-color: #ffde01;
+  font-size: 1.2rem;
+  padding: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 20px;
+  width: 120px;
+  color: white;
+  font-weight: bold;
+  text-shadow: 0 0 9px rgb(0 0 0 / 85%);
+}
+textarea {
+  resize: none;
+}
+
+.container_reviews {
+  background-color: #174254;
+}
+
+.req_an_estimate_container_mobile .page-content {
+  width: 100%;
+  margin: 1rem auto;
+}
+
+.req_an_estimate_container_mobile {
+  width: 90%;
+  margin: auto;
+}
+
+.req_an_estimate_container_mobile .h1 {
+  font-size: 2rem;
+}
+
+.req_an_estimate_container_mobile .row .h3 {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.req_an_estimate_container_mobile .row .details {
+  padding-left: 0.5rem;
+}
+
+.req_an_estimate_container_mobile .schedule-form form {
+  width: 100%;
+}

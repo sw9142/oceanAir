@@ -1,0 +1,127 @@
+/*------------------footer----------------------*/
+.footer1 {
+  background-color: #3a89a2;
+  color: white;
+  padding: 1rem;
+}
+
+.footer1 ul {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin: 0;
+}
+
+.footer1_mobile {
+  padding: 3rem 1.5rem;
+}
+
+.footer1_mobile ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-weight: bold;
+  width: 80%;
+}
+.address_box {
+  display: flex;
+  flex-direction: column;
+
+  text-shadow: rgb(64 54 54) 1px 1px 8px;
+}
+.address_box .contact_info {
+  font-size: 1.8rem;
+}
+.address {
+  font-weight: 300;
+  font-size: 1.3rem;
+  line-height: 35px;
+  margin: 1.1rem 0;
+  width: 50%;
+}
+
+.address .heatingandcooling,
+.moreservices {
+}
+
+.footer_service {
+  font-size: 1.8rem;
+  text-shadow: rgb(64 54 54) 1px 1px 8px;
+}
+
+.cooling_services {
+}
+
+.cooling_list {
+  justify-content: flex-start !important;
+  margin-left: 2rem;
+}
+.footer_subservices {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem 0;
+}
+
+.footer_subservices li {
+  font-weight: 600;
+  width: 100%;
+  padding: 0.5rem 0;
+  cursor: pointer;
+  transition: 0.4s;
+  font-size: 17px;
+  text-shadow: rgb(64 54 54) 1px 1px 8px;
+}
+
+.socialmedia {
+  width: 300px;
+}
+.socialmedia i {
+  color: white;
+  padding-right: 1.3rem;
+  font-size: 1.3rem;
+  align-items: center;
+  transition: 0.4s;
+}
+
+.footer2 {
+  background-color: #08222e;
+  color: white;
+  padding: 0.8rem;
+  text-align: center;
+  font-size: 12px;
+  justify-content: space-around;
+}
+
+.socialmedia i:hover {
+  transform: translate(-1px, -3px);
+}
+
+.footer_subservices li:hover {
+  transform: translate(-1px, -1px);
+}
+
+.footer1_mobile ul {
+  width: 100%;
+}
+.footer1_mobile_services {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.footer1_mobile_services .heatingandcooling,
+.footer1_mobile_services .moreservices {
+  text-align: center;
+  width: auto;
+  margin: 0.2rem;
+}
+.footer1_mobile_services .moreservices .cooling_services {
+  padding-left: 0;
+}
+.footer1_mobile_services .moreservices .cooling_list {
+  margin-left: 0;
+}
+
+.footer_pc {
+  padding: 2rem 4rem;
+}

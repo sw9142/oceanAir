@@ -1,0 +1,235 @@
+.gap {
+  padding: 4.4rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.container_section_first {
+  position: relative;
+}
+.twh_pc {
+  margin-top: 3rem;
+}
+
+.twh_pc .section_first_left {
+  align-self: center;
+  background-color: #d3d3d345;
+  width: 70%;
+  border-radius: 20px;
+  margin-left: 8rem;
+}
+.twh_pc p {
+  font-size: 1.4rem !important;
+}
+
+.twh_pc .section_first_left .container {
+  width: 60%;
+}
+.section_first_left .container {
+  width: 570px;
+  padding: 8rem 3rem 3rem 3rem;
+  border-radius: 10px;
+}
+
+.section_first_left h2 {
+  font-size: 27px;
+  font-family: Open Sans, sans-serif;
+  color: #174254;
+  margin: 0;
+}
+
+.twh_pc .section_first_left h2 {
+  font-size: 2rem;
+}
+.section_first_left p {
+  text-align: left;
+}
+.section_first_left h3 {
+  font-size: 20px;
+  font-weight: 400;
+}
+.section_first_pic {
+  position: absolute;
+  background-image: url("../../Images/hero1.jpg");
+  width: 500px;
+  height: 500px;
+  background-size: cover;
+  top: 2rem;
+  right: 4rem;
+  border-radius: 10px;
+}
+
+.twh_pc .section_first_pic {
+  top: 2rem;
+  right: 10rem;
+  height: 450px;
+}
+
+/*------------section_second_twh-------------------------*/
+
+.section_second_twh .container {
+  margin: 5rem auto;
+  width: 90%;
+}
+
+.section_second_twh .container {
+  margin: 5rem auto;
+  width: 90%;
+}
+
+.section_second_twh .container h2 {
+  font-size: 2.5em;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+  color: #174254;
+}
+.section_second_twh .container h3 {
+  font-size: 2em;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+}
+.section_second_twh .container p {
+  font-size: 18px;
+  line-height: 1.7em;
+}
+
+.section_second_twh .container .btn-req-estimate {
+  display: inline-block;
+  padding: 20px 25px;
+  background: #ffde01;
+  border-radius: 4px;
+  color: #fff !important;
+  line-height: 1em;
+  text-align: center;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: Open Sans, sans-serif;
+  overflow: hidden;
+  position: relative;
+  border: none;
+  height: auto;
+  border-radius: 30px;
+  text-shadow: 0 0 9px rgb(0 0 0 / 85%);
+}
+/*------------section_third_twh-------------------------*/
+
+.section_third_twh .container {
+  padding: 4rem 2rem;
+  background-color: #f7f7f7 !important;
+  width: 90%;
+  margin: 1rem auto;
+}
+
+.section_third_twh .container h2 {
+  font-size: 45px;
+  font-family: Open Sans, sans-serif;
+  color: #174254;
+}
+.section_third_twh .container h3 {
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+}
+.section_third_twh .container p img {
+  float: right;
+  max-width: 30%;
+  margin-bottom: 1.5rem;
+  margin-left: 1.5rem;
+  border-radius: 6px;
+}
+.section_third_twh .container .h3 {
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  font-family: Open Sans, sans-serif !important;
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  color: #174254;
+}
+
+.section_third_twh .container p {
+  font-size: 18px;
+  line-height: 1.7em;
+}
+.section_third_twh .container .btn-req-estimate {
+  display: inline-block;
+  padding: 20px 25px;
+  background: #ffde01;
+  border-radius: 4px;
+  color: #fff !important;
+  line-height: 1em;
+  text-align: center;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: Open Sans, sans-serif;
+  overflow: hidden;
+  position: relative;
+  border: none;
+  height: auto;
+  border-radius: 30px;
+  text-shadow: 0 0 9px rgb(0 0 0 / 85%);
+}
+
+.section_fourth_twh {
+  height: 1100px;
+  background-color: #174254;
+}
+
+/* twh_mobile*/
+
+.twh_mobile {
+  margin-top: 2rem;
+}
+
+.twh_mobile {
+  margin-top: 2rem;
+}
+.twh_mobile h2 {
+  font-size: 2rem;
+}
+
+.twh_mobile h3 {
+  font-size: 1.5rem;
+}
+
+.twh_mobile p {
+  font-size: 18px;
+  line-height: 1.7em;
+}
+
+.twh_mobile .container_section_first {
+  display: flex;
+  flex-direction: column;
+}
+
+.twh_mobile .section_first_left .container {
+  width: 100%;
+  padding: 1rem;
+}
+
+.twh_mobile .section_first_twh .section_first_pic {
+  width: 90%;
+  height: 50%;
+  background-size: cover;
+  position: unset;
+  width: 90%;
+  height: 200px;
+  align-self: center;
+  margin: 1rem;
+}
+
+.twh_mobile .section_third_twh .container p img {
+  max-width: 50%;
+  height: 150px;
+}
+
+.twh_mobile .section_fourth_twh {
+  height: auto;
+  padding-bottom: 1rem;
+}
