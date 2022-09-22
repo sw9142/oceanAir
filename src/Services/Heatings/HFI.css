@@ -24,7 +24,7 @@
   background-color: #d3d3d345;
   width: 80%;
   border-radius: 20px;
-  margin-left: 8rem;
+  margin-left: 4rem;
 }
 .hfi_pc p {
   font-size: 1.4rem !important;
@@ -70,7 +70,7 @@
 
 .hfi_pc .section_first_pic {
   top: 2rem;
-  right: 10rem;
+  right: 5rem;
   height: 450px;
 }
 .twh_pc .section_first_pic {

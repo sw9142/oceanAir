@@ -18,7 +18,7 @@
   background-color: #d3d3d345;
   width: 70%;
   border-radius: 20px;
-  margin-left: 8rem;
+  margin-left: 4rem;
 }
 .aci_pc p {
   font-size: 1.4rem !important;
@@ -63,13 +63,10 @@
 
 .aci_pc .section_first_pic {
   top: 2rem;
-  right: 10rem;
+  right: 4rem;
   height: 450px;
 }
-.twh_pc .section_first_pic {
-  top: 2rem;
-  right: 15rem;
-}
+
 /*------------section_second_aci-------------------------*/
 
 .section_second_aci .container {
