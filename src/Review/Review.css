@@ -1,6 +1,10 @@
 .section_fourth {
-  height: 1100px;
+  max-height: auto;
   background-color: #00395e;
+}
+
+.main_container_mobile .section_fourth {
+  height: 1px;
 }
 
 .review_container {
