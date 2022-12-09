@@ -156,8 +156,7 @@ function Footer() {
       )}
 
       <div className="footer2">
-        © 2022 OceanAir All rights reserved. Website Designed by MTA360 -
-        Privacy Policy
+        © 2022 OceanAir All rights reserved - Privacy Policy
       </div>
     </div>
   );

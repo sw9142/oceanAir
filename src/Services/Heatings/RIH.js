@@ -41,12 +41,11 @@ function RIH() {
             <div className="container">
               <div className="second_rih_1">
                 <h2 className="h2">
-                  {" "}
                   Professional In-Floor Heating Installation
                 </h2>
                 <h3 className="h3">Contact us today in GTA for services</h3>
                 <p>
-                  ‘in-floor’ heating system. Of course, there have been enormous
+                  ‘In-floor’ heating system. Of course, there have been enormous
                   improvements in technology and equipment since then. The last
                   ten years have seen a huge resurgence in hot water heating,
                   particularly in new construction and in whole house
@@ -106,7 +105,7 @@ function RIH() {
                 </h2>
                 <h3 className="h3">Contact us today in GTA for services</h3>
                 <p>
-                  ‘in-floor’ heating system. Of course, there have been enormous
+                  ‘In-floor’ heating system. Of course, there have been enormous
                   improvements in technology and equipment since then. The last
                   ten years have seen a huge resurgence in hot water heating,
                   particularly in new construction and in whole house
@@ -118,10 +117,6 @@ function RIH() {
                 </p>
               </div>
               <div className="second_rih_2">
-                <h2 className="h2">
-                  Timely Radiant In-Floor Heating Services and Repair
-                </h2>
-                <h3>Radiant In-Floor Heating Maintenance</h3>
                 <br></br>
                 <a href="/req_an_estimate" role="link" alt="getanestimate">
                   <button class="btn btn-req-estimate" type="button">

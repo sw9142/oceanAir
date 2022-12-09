@@ -1,14 +1,13 @@
 import React, { useState, useRef } from "react";
 import "./Nav.css";
-import logo from "../Images/logo.png";
+import logo from "../Images/logo2.png";
 
 import { useMediaQuery } from "react-responsive";
 import $ from "jquery";
 
 function Nav() {
   const sub_menu = useRef();
-  // const sub_menu_heating = useRef();
-  // const sub_menu_cooling = useRef();
+
   const [heatingMenuOpen, setHeatingMenuOpen] = useState(false);
   const [coolingMenuOpen, setCoolingMenuOpen] = useState(false);
 
@@ -115,9 +114,6 @@ function Nav() {
                       <li>
                         <a href="rih">Radiant In-Floor Heating</a>
                       </li>
-                      <li>
-                        <a href="lc">Light Commercial HVAC</a>
-                      </li>
                     </ul>
                   </li>
                   <li onClick={mobileCoolingClickHandler}>
@@ -160,7 +156,7 @@ function Nav() {
                   <a href="contactme">🔨 Request Service </a>
                 </div>
                 <div className="getanestimate">
-                  <a href="req_an_estimate">💰 Gen An Estimate</a>
+                  <a href="req_an_estimate">💰 Get An Estimate</a>
                 </div>
               </div>
             </div>
@@ -206,9 +202,6 @@ function Nav() {
                       </li>
                       <li>
                         <a href="rih">Radiant In-Floor Heating</a>
-                      </li>
-                      <li>
-                        <a href="lc">Light Commercial HVAC</a>
                       </li>
                     </ul>
                   </li>
@@ -255,7 +248,7 @@ function Nav() {
                   <a href="contactme">🔨 Request Service </a>
                 </div>
                 <div className="getanestimate">
-                  <a href="req_an_estimate">💰 Gen An Estimate</a>
+                  <a href="req_an_estimate">💰 Get An Estimate</a>
                 </div>
               </div>
             </div>
@@ -301,9 +294,6 @@ function Nav() {
                       </li>
                       <li>
                         <a href="rih">Radiant In-Floor Heating</a>
-                      </li>
-                      <li>
-                        <a href="lc">Light Commercial HVAC</a>
                       </li>
                     </ul>
                   </li>

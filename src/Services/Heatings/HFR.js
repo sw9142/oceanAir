@@ -27,14 +27,9 @@ function HFR() {
                     Contact us today for professional Heating & Furnace repairs!
                   </h2>
                   <p>
-                    No one is excited about heater malfunctions. That’s not
-                    entirely true. While we certainly don’t wish problems on
-                    home and business owners in greater Toronto and the
-                    surrounding area, we at Belyea Bros. Heating, Cooling &
-                    Electrical are always happy to help and eager to tackle and
-                    resolve challenges. We look forward to putting our
-                    experience, skills, and innovation to good use, and there’s
-                    nothing better than earning a happy smile from our clients.
+                    No one is excited about heater malfunctions. we at OceanAir.
+                    Heating & Cooling are always happy to help. We look forward
+                    to putting our experience and skills to good use.
                   </p>
                 </div>
               </div>
@@ -45,17 +40,6 @@ function HFR() {
             <div className="container">
               <div className="second_hfr_1">
                 <h2 className="h2"> Toronto's Heating Repair Experts</h2>
-                <h3 className="h3">
-                  Do you need immediate heating repairs? Call now
-                </h3>
-                <p>
-                  Start by getting in touch at (416) 000-0000, and we’ll handle
-                  the rest swiftly, seamlessly, and successfully. We’ve spent
-                  every day of the last 114 years making sure our services are
-                  the very best across Toronto, ON. Our expert techs are always
-                  prepared for the task and available for unexpected emergencies
-                  24 hours a day, 365 days a year.
-                </p>
               </div>
               <div className="second_hfr_2">
                 <h2 className="h2">
@@ -98,14 +82,9 @@ function HFR() {
                     Contact us today for professional Heating & Furnace repairs!
                   </h2>
                   <p>
-                    No one is excited about heater malfunctions. That’s not
-                    entirely true. While we certainly don’t wish problems on
-                    home and business owners in greater Toronto and the
-                    surrounding area, we at Belyea Bros. Heating, Cooling &
-                    Electrical are always happy to help and eager to tackle and
-                    resolve challenges. We look forward to putting our
-                    experience, skills, and innovation to good use, and there’s
-                    nothing better than earning a happy smile from our clients.
+                    No one is excited about heater malfunctions. we at OceanAir.
+                    Heating & Cooling are always happy to help. We look forward
+                    to putting our experience and skills to good use.
                   </p>
                 </div>
               </div>
@@ -116,17 +95,6 @@ function HFR() {
             <div className="container">
               <div className="second_hfr_1">
                 <h2 className="h2"> Toronto's Heating Repair Experts</h2>
-                <h3 className="h3">
-                  Do you need immediate heating repairs? Call now
-                </h3>
-                <p>
-                  Start by getting in touch at (416) 000-0000, and we’ll handle
-                  the rest swiftly, seamlessly, and successfully. We’ve spent
-                  every day of the last 114 years making sure our services are
-                  the very best across Toronto, ON. Our expert techs are always
-                  prepared for the task and available for unexpected emergencies
-                  24 hours a day, 365 days a year.
-                </p>
               </div>
               <div className="second_hfr_2">
                 <h3 className="h3">

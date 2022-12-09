@@ -14,25 +14,6 @@ function Review() {
   });
   const isMobile = useMediaQuery({ query: "(max-width:767px)" });
 
-  // const retrieveReviews = (e) => {
-  //   Axios.get("https://mybusiness.googleapis.com/v4/accounts/oceanair199")
-  //     .then((res) => {
-  //       if (res) {
-  //         console.log("res.data: ", res.data);
-  //       }
-  //     })
-  //     .catch((err) => {
-  //       if (err) {
-  //         console.log("err ");
-  //       }
-  //     });
-  // };
-
-  // useEffect(() => {
-  //   retrieveReviews();
-  //   return () => {};
-  // }, []);
-
   const getStyle = useRef();
   const leftClickHandler = (e) => {
     console.log("currentPos: ", currentPos);
@@ -225,8 +206,7 @@ function Review() {
             well as unexpected concerns by putting our depth of resources,
             background, and skills to task for you. Expect a swift, streamlined
             and satisfying process and outcome. Take confidence in clear
-            explanations, proficiency in all makes and models, and 24-hour
-            emergency service across Toronto, ON.
+            explanations, proficiency in all makes and models.
             <a href="/req_an_estimate">
               <div id="getanestimatebtn">
                 <a href="req_an_estimate">

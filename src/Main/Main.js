@@ -120,7 +120,8 @@ function Main() {
             <div className="row">
               <div className="hero-content">
                 <div className="hero-title">
-                  Proudly Serving Toronto For Over <span>113 Years</span>
+                  Proudly Serving GTA and Surroundings For Over{" "}
+                  <span> 22 Years</span>
                 </div>
                 <p>
                   Our team of expert technicians is highly trained and ready to
@@ -144,7 +145,7 @@ function Main() {
                 <div className="contactme_desc">
                   <p>
                     If you are experiencing an emergency, please call (416)
-                    000-0000 to speak directly to the technician
+                    720-8795 to speak directly to the technician
                   </p>
 
                   <form action="" method="post" ref={form}>
@@ -198,14 +199,13 @@ function Main() {
                   Heating and A/C Repair & Maintenance
                 </div>
                 <div className="desc">
-                  OceanAir is your HVAC, water heating, and electrical service
-                  specialist in greater Toronto and the surrounding area. We
-                  represent the comprehensive knowledge that only experiences
-                  achieve. we have earned our spot as the premier provider of
-                  residential and light commercial solutions. Our legacy is
-                  built on the proof of our commitment to customers, long-term
-                  partnerships, and a determination to evolve, improve and
-                  innovate.
+                  OceanAir is your HVAC hydronic specialist in greater Toronto
+                  and the surrounding area. We represent the comprehensive
+                  knowledge that only experiences achieve. we have earned our
+                  spot as the premier provider of residential and light
+                  commercial solutions. Our legacy is built on the proof of our
+                  commitment to customers, long-term partnerships, and a
+                  determination to evolve, improve and innovate.
                 </div>
 
                 <button id="requestbtn">
@@ -226,7 +226,8 @@ function Main() {
             <div className="row">
               <div className="hero-content">
                 <div className="hero-title">
-                  Proudly Serving Toronto For Over <span>113 Years</span>
+                  Proudly Serving GTA and Surroundings For Over{" "}
+                  <span> 22 Years</span>
                 </div>
                 <p>
                   Our team of expert technicians is highly trained and ready to
@@ -346,7 +347,7 @@ function Main() {
                 <div className="contactme_desc">
                   <p>
                     If you are experiencing an emergency, please call (416)
-                    000-0000 to speak directly to the technician
+                    720-8795 to speak directly to the technician
                   </p>
 
                   <form action="" method="post" ref={form}>
@@ -400,14 +401,13 @@ function Main() {
                   Heating and A/C Repair & Maintenance
                 </div>
                 <div className="desc">
-                  OceanAir is your HVAC, water heating, and electrical service
-                  specialist in greater Toronto and the surrounding area. We
-                  represent the comprehensive knowledge that only experiences
-                  achieve. we have earned our spot as the premier provider of
-                  residential and light commercial solutions. Our legacy is
-                  built on the proof of our commitment to customers, long-term
-                  partnerships, and a determination to evolve, improve and
-                  innovate.
+                  OceanAir is your HVAC hydronic specialist in greater Toronto
+                  and the surrounding area. We represent the comprehensive
+                  knowledge that only experiences achieve. we have earned our
+                  spot as the premier provider of residential and light
+                  commercial solutions. Our legacy is built on the proof of our
+                  commitment to customers, long-term partnerships, and a
+                  determination to evolve, improve and innovate.
                 </div>
 
                 <button id="requestbtn">
@@ -428,7 +428,8 @@ function Main() {
             <div className="row">
               <div className="hero-content">
                 <div className="hero-title">
-                  Proudly Serving Toronto For Over <span>113 Years</span>
+                  Proudly Serving GTA and Surroundings For Over{" "}
+                  <span> 22 Years</span>
                 </div>
                 <p>
                   Our team of expert technicians is highly trained and ready to
@@ -548,7 +549,7 @@ function Main() {
                 <div className="contactme_desc">
                   <p>
                     If you are experiencing an emergency, please call (416)
-                    000-0000 to speak directly to the technician
+                    720-8795 to speak directly to the technician
                   </p>
 
                   <form action="" method="post" ref={form}>
@@ -602,14 +603,13 @@ function Main() {
                   Heating and A/C Repair & Maintenance
                 </div>
                 <div className="desc">
-                  OceanAir is your HVAC, water heating, and electrical service
-                  specialist in greater Toronto and the surrounding area. We
-                  represent the comprehensive knowledge that only experiences
-                  achieve. we have earned our spot as the premier provider of
-                  residential and light commercial solutions. Our legacy is
-                  built on the proof of our commitment to customers, long-term
-                  partnerships, and a determination to evolve, improve and
-                  innovate.
+                  OceanAir is your HVAC hydronic specialist in greater Toronto
+                  and the surrounding area. We represent the comprehensive
+                  knowledge that only experiences achieve. we have earned our
+                  spot as the premier provider of residential and light
+                  commercial solutions. Our legacy is built on the proof of our
+                  commitment to customers, long-term partnerships, and a
+                  determination to evolve, improve and innovate.
                 </div>
 
                 <button id="requestbtn">
@@ -626,43 +626,6 @@ function Main() {
       <div className="section_fourth">
         <Review />
       </div>
-      {/* {isMobile ? (
-        <></>
-      ) : (
-        <div className="section_fifth">
-          <div className="section_fifth_container">
-            <div className="fifth_card service1"></div>
-            <div className="fifth_card service2"></div>
-            <div className="fifth_card service3"></div>
-          </div>
-          <div className="blackcover">
-            <div className="blackcover_card">
-              <i className="fas fa-tools"></i>
-              <div className="service_title">Maintenance Plans</div>
-              <p>
-                We offer maintenance plans to keep your equipment running at its
-                best
-              </p>
-            </div>
-            <div className="blackcover_card">
-              <i className="fas fa-tools"></i>
-              <div className="service_title">Maintenance Plans</div>
-              <p>
-                We offer maintenance plans to keep your equipment running at its
-                best
-              </p>
-            </div>
-            <div className="blackcover_card">
-              <i className="fas fa-tools"></i>
-              <div className="service_title">Maintenance Plans</div>
-              <p>
-                We offer maintenance plans to keep your equipment running at its
-                best
-              </p>
-            </div>
-          </div>
-        </div>
-      )} */}
 
       <div className="section_footer">
         <Footer />

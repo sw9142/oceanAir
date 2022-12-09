@@ -27,11 +27,9 @@ function BI() {
                     the severe cold in greater Toronto and the surrounding area,
                     boilers make an excellent choice for both the residential
                     and commercial setting. As an authorized boiler installation
-                    company, Belyea Bros. Heating, Cooling & Electrical
-                    optimizes hydronic heating system performance by way of
-                    radiant in-floor heating, streamlined wall or baseboard
-                    radiators, air handlers, domestic hot water tanks, snowmelt
-                    systems, and more.
+                    company, OceanAir Heating & Cooling optimizes hydronic
+                    heating system performance by way of radiant in-floor
+                    heating, streamlined wall or baseboard radiators.
                   </p>
                 </div>
               </div>
@@ -45,37 +43,24 @@ function BI() {
                   High Efficiency Boiler Installation & Service
                 </h3>
                 <p>
-                  Drawing from leading manufacturers such as Baxi, Rinnai,
-                  Slant/fin, HTP, Triangle Tube, NTI, and Viessmann, we offer
-                  modulating boilers to maximize heat extraction and energy
-                  efficiency. Condensing, non-condensing and combi options free
-                  up space, accommodate zoned control, and provide virtually
-                  silent operation, a healthier indoor environment, consistent
-                  temperature, gentle heat and won’t overly dry out the indoor
-                  air.
+                  Drawing from leading manufacturers such as Rinnai, Navien,
+                  NTI, and Viessmann, we offer modulating boilers to maximize
+                  heat extraction and energy efficiency. Condensing,
+                  non-condensing and combi options free up space.
                 </p>
               </div>
 
               <div className="second_bi_2">
                 <h3 className="h3">Combination Boiler Maintenance Services</h3>
                 <p>
-                  OceanAir. Heating, Cooling & Electrical gets excited about
-                  boilers. Very much like our company, this type of heating
-                  system is exceptionally reliable, long-lasting and exceeds
-                  expectations in all ways. We’ve been around since 1908 and
-                  definitely know our way around all makes and models of
-                  hydronic heating. Get in touch with us at (416) 720-8795 for
-                  every residential and commercial need, including free
-                  estimates on replacements, vital maintenance, skilled repair,
-                  and 24/7 emergency service across Toronto, ON.
+                  OceanAir Heating & Cooling gets excited about boilers. Very
+                  much like our company, this type of heating system is
+                  exceptionally reliable, long-lasting and exceeds expectations
+                  in all ways. Get in touch with us at (416) 720-8795 for every
+                  residential and commercial need.{" "}
                 </p>
               </div>
               <div className="second_bi_3">
-                <h3 className="h3">Non-Condensing Mid-Efficiency Boilers</h3>
-                <p>
-                  Contact our team to learn more about all of our boiler
-                  services!
-                </p>
                 <a href="/req_an_estimate" role="link" alt="getanestimate">
                   <button class="btn btn-req-estimate" type="button">
                     Request An Estimate
@@ -105,11 +90,9 @@ function BI() {
                     the severe cold in greater Toronto and the surrounding area,
                     boilers make an excellent choice for both the residential
                     and commercial setting. As an authorized boiler installation
-                    company, Belyea Bros. Heating, Cooling & Electrical
-                    optimizes hydronic heating system performance by way of
-                    radiant in-floor heating, streamlined wall or baseboard
-                    radiators, air handlers, domestic hot water tanks, snowmelt
-                    systems, and more.
+                    company, OceanAir Heating & Cooling optimizes hydronic
+                    heating system performance by way of radiant in-floor
+                    heating, streamlined wall or baseboard radiators.
                   </p>
                 </div>
               </div>
@@ -123,37 +106,24 @@ function BI() {
                   High Efficiency Boiler Installation & Service
                 </h3>
                 <p>
-                  Drawing from leading manufacturers such as Baxi, Rinnai,
-                  Slant/fin, HTP, Triangle Tube, NTI, and Viessmann, we offer
-                  modulating boilers to maximize heat extraction and energy
-                  efficiency. Condensing, non-condensing and combi options free
-                  up space, accommodate zoned control, and provide virtually
-                  silent operation, a healthier indoor environment, consistent
-                  temperature, gentle heat and won’t overly dry out the indoor
-                  air.
+                  Drawing from leading manufacturers such as Rinnai, Navien,
+                  NTI, and Viessmann, we offer modulating boilers to maximize
+                  heat extraction and energy efficiency. Condensing,
+                  non-condensing and combi options free up space.
                 </p>
               </div>
 
               <div className="second_bi_2">
                 <h3 className="h3">Combination Boiler Maintenance Services</h3>
                 <p>
-                  OceanAir. Heating, Cooling & Electrical gets excited about
-                  boilers. Very much like our company, this type of heating
-                  system is exceptionally reliable, long-lasting and exceeds
-                  expectations in all ways. We’ve been around since 1908 and
-                  definitely know our way around all makes and models of
-                  hydronic heating. Get in touch with us at (416) 720-8795 for
-                  every residential and commercial need, including free
-                  estimates on replacements, vital maintenance, skilled repair,
-                  and 24/7 emergency service across Toronto, ON.
+                  OceanAir Heating & Cooling gets excited about boilers. Very
+                  much like our company, this type of heating system is
+                  exceptionally reliable, long-lasting and exceeds expectations
+                  in all ways. Get in touch with us at (416) 720-8795 for every
+                  residential and commercial need.{" "}
                 </p>
               </div>
               <div className="second_bi_3">
-                <h3 className="h3">Non-Condensing Mid-Efficiency Boilers</h3>
-                <p>
-                  Contact our team to learn more about all of our boiler
-                  services!
-                </p>
                 <a href="/req_an_estimate" role="link" alt="getanestimate">
                   <button class="btn btn-req-estimate" type="button">
                     Request An Estimate

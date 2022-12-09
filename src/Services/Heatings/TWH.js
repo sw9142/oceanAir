@@ -29,11 +29,9 @@ function TWH() {
                     Tankless Hot Water Heater Installation in Toronto
                   </h2>
                   <p>
-                    Tankless hot water heaters are common in Europe and Japan.
-                    They can supply an endless supply of hot water, with greater
-                    energy savings than conventional tanks. They are, however,
-                    limited in the amount of hot water that can be produced at
-                    one time and the upfront costs are higher.
+                    Tankless hot water heaters can supply an endless supply of
+                    hot water, with greater energy savings than conventional
+                    tanks.
                   </p>
                 </div>
               </div>
@@ -41,28 +39,8 @@ function TWH() {
           </div>
           <div className="section_second_twh">
             <div className="container">
-              <div className="second_twh_1">
-                <p>
-                  OceanAir. Limited installs Rinnai units that are up to 98%
-                  efficient and can provide up to 4.5 gallons per minute at a
-                  25°C temperature rise (the temp rise we require in Toronto to
-                  heat our incoming water). OceanAir. services all manufacturers
-                  of tankless units including Navien, Noritz, Bosch, Takagi &
-                  Bradford White.
-                </p>
-              </div>
+              <div className="second_twh_1"></div>
               <div className="second_twh_2">
-                <h2 className="h2">
-                  Your Hometown Tankless Water Heater Company
-                </h2>
-                <p>
-                  In our experience, the most successful applications of these
-                  units are in households where the whole family is committed to
-                  being more energy-efficient. This may include the use of
-                  high-efficiency dishwashers and washing machines (that heat
-                  their own water), low-flow shower heads, and a willingness to
-                  adapt water usage.
-                </p>
                 <a href="/req_an_estimate" role="link" alt="getanestimate">
                   <button class="btn btn-req-estimate" type="button">
                     Request An Estimate
@@ -85,11 +63,9 @@ function TWH() {
                     Tankless Hot Water Heater Installation in Toronto
                   </h2>
                   <p>
-                    Tankless hot water heaters are common in Europe and Japan.
-                    They can supply an endless supply of hot water, with greater
-                    energy savings than conventional tanks. They are, however,
-                    limited in the amount of hot water that can be produced at
-                    one time and the upfront costs are higher.
+                    Tankless hot water heaters can supply an endless supply of
+                    hot water, with greater energy savings than conventional
+                    tanks.
                   </p>
                 </div>
               </div>
@@ -98,28 +74,9 @@ function TWH() {
           </div>
           <div className="section_second_twh">
             <div className="container">
-              <div className="second_twh_1">
-                <p>
-                  OceanAir. Limited installs Rinnai units that are up to 98%
-                  efficient and can provide up to 4.5 gallons per minute at a
-                  25°C temperature rise (the temp rise we require in Toronto to
-                  heat our incoming water). OceanAir. services all manufacturers
-                  of tankless units including Navien, Noritz, Bosch, Takagi &
-                  Bradford White.
-                </p>
-              </div>
+              <div className="second_twh_1"></div>
               <div className="second_twh_2">
-                <h2 className="h2">
-                  Your Hometown Tankless Water Heater Company
-                </h2>
-                <p>
-                  In our experience, the most successful applications of these
-                  units are in households where the whole family is committed to
-                  being more energy-efficient. This may include the use of
-                  high-efficiency dishwashers and washing machines (that heat
-                  their own water), low-flow shower heads, and a willingness to
-                  adapt water usage.
-                </p>
+                <p></p>
                 <a href="/req_an_estimate" role="link" alt="getanestimate">
                   <button class="btn btn-req-estimate" type="button">
                     Request An Estimate

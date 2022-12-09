@@ -11,7 +11,6 @@ function LC() {
     query: "(min-width:768px) and (max-width:1023px)",
   });
   const isMobile = useMediaQuery({ query: "(max-width:767px)" });
-
   return (
     <div>
       <Nav />

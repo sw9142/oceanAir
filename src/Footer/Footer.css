@@ -26,30 +26,21 @@
 .address_box {
   display: flex;
   flex-direction: column;
-
-  text-shadow: rgb(64 54 54) 1px 1px 8px;
 }
-.address_box .contact_info {
+/* .address_box .contact_info {
   font-size: 1.8rem;
-}
+} */
 .address {
   font-weight: 300;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   line-height: 35px;
   margin: 1.1rem 0;
   width: 50%;
 }
 
-.address .heatingandcooling,
-.moreservices {
-}
-
 .footer_service {
-  font-size: 1.8rem;
-  text-shadow: rgb(64 54 54) 1px 1px 8px;
-}
-
-.cooling_services {
+  font-size: 1.4rem;
+  /* text-shadow: rgb(64 54 54) 1px 1px 8px; */
 }
 
 .cooling_list {
@@ -60,16 +51,17 @@
   display: flex;
   flex-direction: row;
   padding: 1rem 0;
+  gap: 1.5rem;
 }
 
 .footer_subservices li {
-  font-weight: 600;
+  font-weight: 400;
   width: 100%;
   padding: 0.5rem 0;
   cursor: pointer;
   transition: 0.4s;
-  font-size: 17px;
-  text-shadow: rgb(64 54 54) 1px 1px 8px;
+  font-size: 1rem;
+  /* text-shadow: rgb(64 54 54) 1px 1px 8px; */
 }
 
 .socialmedia {
@@ -123,5 +115,5 @@
 }
 
 .footer_pc {
-  padding: 2rem 4rem;
+  padding: 2rem 5rem;
 }

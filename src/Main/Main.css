@@ -52,7 +52,7 @@ body {
   text-align: center;
 }
 .hero-title {
-  font-size: 4rem;
+  font-size: 3.6rem;
   font-weight: 700;
 }
 .hero-content p {
@@ -131,7 +131,7 @@ body {
   width: 280px;
   height: 450px;
   cursor: pointer;
-  border-radius: 2px;
+  border-radius: 20px;
   transition: 1s;
   box-shadow: 0.1px 3px 10px rgba(87, 87, 87, 0.36);
 }
@@ -144,7 +144,7 @@ body {
 .servicepic img {
   width: 280px;
   height: 180px;
-  border-radius: 4px 4px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
 }
 
 .servicecontent {
@@ -152,12 +152,12 @@ body {
   padding: 1rem;
   text-align: center;
   height: 270px;
-  border-radius: 0px 0px 4px 4px;
+  border-radius: 0px 0px 10px 10px;
 }
 
 .servicetitle {
   font-size: 1.4rem;
-  color: #08222e;
+  color: #00395d;
   font-weight: bolder;
 
   padding: 1rem 0;
@@ -202,13 +202,13 @@ body {
 }
 
 .contactme_desc {
-  background-color: #174254;
+  background-color: #00395d;
   line-height: 2px;
   height: auto;
   color: white;
   padding: 2.5rem;
   padding-top: 4rem;
-  border-radius: 15px;
+  border-radius: 10px;
   font-weight: bold;
   box-shadow: 0.1px 3px 10px rgba(87, 87, 87, 0.36);
 }
@@ -231,7 +231,7 @@ body {
 
 .contactme_desc form input,
 .contactme_desc form textarea {
-  border-radius: 5px;
+  border-radius: 8px;
   padding: 0.7rem;
   border: none;
   margin-bottom: 0.5rem;
@@ -262,7 +262,7 @@ body {
   font-size: 1rem;
   font-weight: bold;
   padding: 1rem 1rem;
-  border-radius: 50px;
+  border-radius: 15px;
   width: 100px;
   cursor: pointer;
   text-align: center;
@@ -280,7 +280,7 @@ body {
 /*------------------section fourth----------------------*/
 .section_fourth {
   height: 1100px;
-  background-color: #174254;
+  background-color: #00395d;
 }
 
 .review_container {

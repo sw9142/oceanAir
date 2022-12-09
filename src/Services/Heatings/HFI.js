@@ -43,26 +43,10 @@ function HFI() {
                 technology, including:
               </p>
               <ul>
-                <li>
-                  <a href="" role="link">
-                    Forced Air Furnaces
-                  </a>
-                </li>
-                <li>
-                  <a href="" role="link">
-                    Heat Pumps
-                  </a>
-                </li>
-                <li>
-                  <a href="" role="link">
-                    Radiators
-                  </a>
-                </li>
-                <li>
-                  <a href="" role="link">
-                    High-Efficiency Boilers
-                  </a>
-                </li>
+                <li>Forced Air Furnaces</li>
+
+                <li>Radiators</li>
+                <li>High-Efficiency Boilers</li>
               </ul>
             </div>
           </div>
@@ -84,17 +68,8 @@ function HFI() {
                 surrounding area, the requirements might be very different but
                 the goals are the same. You need a heating system capable of
                 handling the severe cold in greater Toronto and the surrounding
-                area. Along with perfect comfort, aspects such as energy
-                efficiency, air quality, reliability, and the sustainability of
-                the equipment are all priorities. Best results are often
-                achieved through trial and error. When you call OceanAir
-                Heating, Cooling &amp; Electrical for service, you skip ahead to
-                a successful outcome. Our personalized approach to heating
-                system design is the culmination of 114 years of knowledge and
-                experience. We’re familiar with all options, happy to explain
-                them, and make sure you take advantage of innovation to achieve
-                best possible results. We are the capable hands to guide and
-                accomplish where others fall short.
+                area. When you call OceanAir Heating, Cooling &amp; you skip
+                ahead to a successful outcome.
               </p>
               <h3 class="h3">
                 Heating Installation in Toronto, ON | Heating System Replacement
@@ -143,26 +118,10 @@ function HFI() {
                 technology, including:
               </p>
               <ul>
-                <li>
-                  <a href="" role="link">
-                    Forced Air Furnaces
-                  </a>
-                </li>
-                <li>
-                  <a href="" role="link">
-                    Heat Pumps
-                  </a>
-                </li>
-                <li>
-                  <a href="" role="link">
-                    Radiators
-                  </a>
-                </li>
-                <li>
-                  <a href="" role="link">
-                    High-Efficiency Boilers
-                  </a>
-                </li>
+                <li>Forced Air Furnaces</li>
+
+                <li>Radiators</li>
+                <li>High-Efficiency Boilers</li>
               </ul>
             </div>
           </div>
@@ -184,17 +143,8 @@ function HFI() {
                 surrounding area, the requirements might be very different but
                 the goals are the same. You need a heating system capable of
                 handling the severe cold in greater Toronto and the surrounding
-                area. Along with perfect comfort, aspects such as energy
-                efficiency, air quality, reliability, and the sustainability of
-                the equipment are all priorities. Best results are often
-                achieved through trial and error. When you call OceanAir
-                Heating, Cooling &amp; Electrical for service, you skip ahead to
-                a successful outcome. Our personalized approach to heating
-                system design is the culmination of 114 years of knowledge and
-                experience. We’re familiar with all options, happy to explain
-                them, and make sure you take advantage of innovation to achieve
-                best possible results. We are the capable hands to guide and
-                accomplish where others fall short.
+                area. When you call OceanAir Heating, Cooling &amp; you skip
+                ahead to a successful outcome.
               </p>
               <h3 class="h3">
                 Heating Installation in Toronto, ON | Heating System Replacement

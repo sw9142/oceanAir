@@ -118,26 +118,15 @@ function ContactMe() {
       {isMobile ? (
         <section className="page-content_mobile">
           <div className="page-content-section-first">
-            <div className="h1">Ocean Air. Heating, Cooling & Electrical</div>
+            <div className="h1">Ocean Air Heating & Cooling </div>
             <div className="row">
-              <div className="col">
-                <div className="h3">
-                  <i className="fas fa-map-marker-alt accent"></i>
-                  <span>Address</span>
-                </div>
-                <p className="details">
-                  123 Abc Street, <br />
-                  Richmond Hill, ON M3M 2R9
-                </p>
-              </div>
               <div className="col">
                 <div className="h3">
                   <i className="fa-regular fa-clock"></i>
                   <span>Business Hours</span>
                 </div>
                 <p className="details">
-                  Monday-Friday: 8:30am-4:30pm <br />
-                  Saturday-Sunday: Emergency Service Only
+                  Monday-Saturday: 8:30am-4:30pm <br />
                 </p>
               </div>
               <div className="col">
@@ -281,26 +270,15 @@ function ContactMe() {
       ) : (
         <section className="page-content">
           <div className="page-content-section-first">
-            <div className="h1">Ocean Air. Heating, Cooling & Electrical</div>
+            <div className="h1">Ocean Air Heating & Cooling </div>
             <div className="row">
-              <div className="col">
-                <div className="h3">
-                  <i className="fas fa-map-marker-alt accent"></i>
-                  <span>Address</span>
-                </div>
-                <p className="details">
-                  123 Abc Street, <br />
-                  Richmond Hill, ON M3M 2R9
-                </p>
-              </div>
               <div className="col">
                 <div className="h3">
                   <i className="fa-regular fa-clock"></i>
                   <span>Business Hours</span>
                 </div>
                 <p className="details">
-                  Monday-Friday: 8:30am-4:30pm <br />
-                  Saturday-Sunday: Emergency Service Only
+                  Monday-Saturday: 8:30am-4:30pm <br />
                 </p>
               </div>
               <div className="col">

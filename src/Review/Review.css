@@ -1,6 +1,6 @@
 .section_fourth {
   height: 1100px;
-  background-color: #174254;
+  background-color: #00395e;
 }
 
 .review_container {
@@ -60,7 +60,7 @@
   cursor: pointer;
   transition: 0.5s;
   border: none;
-  background-color: #174254;
+  background-color: #00395e;
 }
 
 .review_arrow_left i,

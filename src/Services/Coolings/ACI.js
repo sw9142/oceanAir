@@ -25,14 +25,10 @@ function ACI() {
                   <h2 className="h2">Central Air Conditioning Installation</h2>
                   <p>
                     Central Air Conditioning Installation Considering the
-                    addition of central cooling to your home in greater Toronto
-                    and the surrounding area? Thinking it’s time to replace an
-                    outdated air conditioner? From the most modern to historical
-                    residences, Belyea Bros. Heating, Cooling & Electrical
-                    provides choices, solutions, and satisfaction. We elevate
-                    the benefits of your investment through top-quality
-                    equipment, customized system design, and proper installation
-                    protocols.
+                    addition of central cooling to your home. Thinking it’s time
+                    to replace an outdated air conditioner? OceanAir Heating &
+                    Cooling provides choices, and solutions for new air
+                    conditioner unit.
                   </p>
                 </div>
               </div>
@@ -42,19 +38,6 @@ function ACI() {
           <div className="section_second_aci">
             <div className="container">
               <div className="second_aci_1">
-                <h3 className="h3">
-                  Get an Estimate on AC Installation in Toronto
-                </h3>
-                <p>
-                  When we’re talking about elevating the comfort, efficiency and
-                  value of your home, we at OceanAir. Heating, Cooling &
-                  Electrical make a lot of promises. We like to brag about our
-                  personalized customer service, smooth completion of every job,
-                  and exceptional reliability of the outcome. We also back up
-                  our claims with a proven history of 114 years. Our extensive
-                  experience means we’ve learned a lot about what it takes to
-                  make our customers completely happy.
-                </p>
                 <a href="/req_an_estimate" role="link" alt="getanestimate">
                   <button class="btn btn-req-estimate" type="button">
                     Request An Estimate
@@ -81,14 +64,10 @@ function ACI() {
                   <h2 className="h2">Central Air Conditioning Installation</h2>
                   <p>
                     Central Air Conditioning Installation Considering the
-                    addition of central cooling to your home in greater Toronto
-                    and the surrounding area? Thinking it’s time to replace an
-                    outdated air conditioner? From the most modern to historical
-                    residences, Belyea Bros. Heating, Cooling & Electrical
-                    provides choices, solutions, and satisfaction. We elevate
-                    the benefits of your investment through top-quality
-                    equipment, customized system design, and proper installation
-                    protocols.
+                    addition of central cooling to your home. Thinking it’s time
+                    to replace an outdated air conditioner? OceanAir Heating &
+                    Cooling provides choices, and solutions for new air
+                    conditioner unit.
                   </p>
                 </div>
               </div>
@@ -98,19 +77,6 @@ function ACI() {
           <div className="section_second_aci">
             <div className="container">
               <div className="second_aci_1">
-                <h3 className="h3">
-                  Get an Estimate on AC Installation in Toronto
-                </h3>
-                <p>
-                  When we’re talking about elevating the comfort, efficiency and
-                  value of your home, we at OceanAir. Heating, Cooling &
-                  Electrical make a lot of promises. We like to brag about our
-                  personalized customer service, smooth completion of every job,
-                  and exceptional reliability of the outcome. We also back up
-                  our claims with a proven history of 114 years. Our extensive
-                  experience means we’ve learned a lot about what it takes to
-                  make our customers completely happy.
-                </p>
                 <a href="/req_an_estimate" role="link" alt="getanestimate">
                   <button class="btn btn-req-estimate" type="button">
                     Request An Estimate
