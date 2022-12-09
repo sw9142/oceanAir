@@ -166,7 +166,9 @@
   height: 100%;
   height: auto;
 }
-
+.nav_second_right_mobile i {
+  color: #00395e;
+}
 .nav_second_row_first {
   flex-direction: row;
   display: flex;
@@ -176,12 +178,12 @@
 
 .nav_second_row_second {
   display: none;
-  background-color: #00395e;
+  background-color: #d9dada;
   width: 100%;
   top: 5.6rem;
   left: 0rem;
   height: auto;
-  padding: 0rem 1rem 1rem 1rem;
+  padding: 0rem 1rem 0rem 1rem;
   width: 100%;
   position: absolute;
   right: 0;
@@ -201,10 +203,14 @@
   font-weight: bold;
   text-align: center;
   font-size: 1.2rem;
-  color: #fff;
+  color: #00395e;
   padding-top: 12px;
   padding-bottom: 12px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.nav_second_row_second ul li a {
+  color: #00395e;
 }
 /*-------sub_menu_heating------------*/
 #sub_menu_heating,
